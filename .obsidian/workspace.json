@@ -23,11 +23,10 @@
             "id": "d637cb59a79cc4ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/hotkeys.json",
+                "staged": false
               }
             }
           }
@@ -98,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,7 +164,7 @@
   },
   "active": "d637cb59a79cc4ba",
   "lastOpenFiles": [
-    "route.md",
-    "README.md"
+    "README.md",
+    "route.md"
   ]
 }
