@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作记录/从U盘启动.md",
+                "file": "预备知识/实模式和保护模式.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作记录/从U盘启动.md",
+                "file": "预备知识/实模式和保护模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作记录/从U盘启动.md",
+                "file": "预备知识/实模式和保护模式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作记录/从U盘启动.md"
+                "file": "预备知识/实模式和保护模式.md"
               }
             }
           },
@@ -154,11 +154,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "66fafafa2646ea37",
+  "active": "79be256761d7f6d5",
   "lastOpenFiles": [
+    "操作记录/从U盘启动.md",
     "汇编记录",
     "预备知识/主引导扇区.md",
-    "操作记录/从U盘启动.md",
     "操作记录",
     "预备知识/实模式和保护模式.md",
     "预备知识/系统启动流程.md",
