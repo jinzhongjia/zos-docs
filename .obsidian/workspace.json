@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "098136b4fe30d239",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "汇编记录/命令.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "预备知识/实模式和保护模式.md",
+                "file": "汇编记录/命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "预备知识/实模式和保护模式.md",
+                "file": "汇编记录/命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "预备知识/实模式和保护模式.md"
+                "file": "汇编记录/命令.md"
               }
             }
           },
@@ -154,13 +167,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "79be256761d7f6d5",
+  "active": "098136b4fe30d239",
   "lastOpenFiles": [
+    "汇编记录/cli.md",
+    "汇编记录/命令.md",
+    "预备知识/实模式和保护模式.md",
     "操作记录/从U盘启动.md",
     "汇编记录",
     "预备知识/主引导扇区.md",
     "操作记录",
-    "预备知识/实模式和保护模式.md",
     "预备知识/系统启动流程.md",
     "预备知识/Bios.md",
     "README.md",
