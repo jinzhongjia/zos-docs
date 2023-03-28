@@ -54,9 +54,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b0fd2630e98bac0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "汇编记录/内存段.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7afabbdf873e9289",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "汇编记录/寄存器.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -122,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "预备知识/ELF文件.md",
+                "file": "汇编记录/寄存器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "预备知识/ELF文件.md",
+                "file": "汇编记录/寄存器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "预备知识/ELF文件.md"
+                "file": "汇编记录/寄存器.md"
               }
             }
           },
@@ -191,8 +215,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ce1cac253cd8dc08",
+  "active": "57b40231ae22ac4a",
   "lastOpenFiles": [
+    "汇编记录/内存段.md",
+    "汇编记录/寄存器.md",
     "汇编记录/基本语法.md",
     "预备知识/ELF文件.md",
     "汇编记录/命令.md",

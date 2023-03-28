@@ -7,3 +7,5 @@ ELF (Executable and Linkable Format)是一种为可执行文件，目标文件�
 -   程序头表(Program header table) - 列举了所有有效的段(segments)和他们的属性。 程序头表需要加载器将文件中的节加载到虚拟内存段中；
     
 -   节头表(Section header table) - 包含对节(sections)的描述。
+
+具体信息可以参考该[文章](https://xinqiu.gitbooks.io/linux-inside-zh/content/Theory/linux-theory-2.html)
