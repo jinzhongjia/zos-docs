@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "da95e3c610050137",
+        "id": "1cc864d1726c555b",
         "type": "tabs",
         "children": [
           {
-            "id": "c347077f74b4c432",
+            "id": "34f1882e32e704b9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9bd34ce707070464",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "预备知识/系统启动流程.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e695fb28d83cf679",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "预备知识/未命名.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "预备知识/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "预备知识/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "预备知识/未命名.md"
-              }
+              "state": {}
             }
           },
           {
@@ -163,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -179,10 +146,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e695fb28d83cf679",
+  "active": "34f1882e32e704b9",
   "lastOpenFiles": [
+    "预备知识/Bios.md",
     "预备知识/系统启动流程.md",
-    "预备知识/未命名.md",
     "README.md",
     "预备知识",
     "route.md"
