@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "34f1882e32e704b9",
+            "id": "79be256761d7f6d5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "操作记录/从U盘启动.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "操作记录/从U盘启动.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "操作记录/从U盘启动.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "操作记录/从U盘启动.md"
+              }
             }
           },
           {
@@ -146,10 +154,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "34f1882e32e704b9",
+  "active": "66fafafa2646ea37",
   "lastOpenFiles": [
-    "预备知识/Bios.md",
+    "汇编记录",
+    "预备知识/主引导扇区.md",
+    "操作记录/从U盘启动.md",
+    "操作记录",
+    "预备知识/实模式和保护模式.md",
     "预备知识/系统启动流程.md",
+    "预备知识/Bios.md",
     "README.md",
     "预备知识",
     "route.md"
