@@ -215,11 +215,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "57b40231ae22ac4a",
+  "active": "7afabbdf873e9289",
   "lastOpenFiles": [
-    "汇编记录/内存段.md",
-    "汇编记录/寄存器.md",
     "汇编记录/基本语法.md",
+    "汇编记录/寄存器.md",
+    "汇编记录/内存段.md",
     "预备知识/ELF文件.md",
     "汇编记录/命令.md",
     "汇编记录/cli.md",
