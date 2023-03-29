@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "cad6b63dfe99f723",
+        "id": "e34e19511f2a3ee1",
         "type": "tabs",
         "children": [
           {
-            "id": "7b43e2437fd9dab5",
+            "id": "3afd93fe658efad8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "汇编记录/寄存器.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a9e2e5b09425003",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "汇编记录/系统调用.md",
+                "file": "预备知识/实模式和保护模式.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "汇编记录/系统调用.md",
+                "file": "预备知识/实模式和保护模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "汇编记录/系统调用.md",
+                "file": "预备知识/实模式和保护模式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "汇编记录/系统调用.md"
+                "file": "预备知识/实模式和保护模式.md"
               }
             }
           },
@@ -167,7 +154,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9a9e2e5b09425003",
+  "active": "3afd93fe658efad8",
   "lastOpenFiles": [
     "汇编记录/寄存器.md",
     "汇编记录/系统调用.md",
