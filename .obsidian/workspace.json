@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "预备知识/实模式和保护模式.md",
+                "file": "route.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "预备知识/实模式和保护模式.md",
+                "file": "route.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "预备知识/实模式和保护模式.md",
+                "file": "route.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "预备知识/实模式和保护模式.md"
+                "file": "route.md"
               }
             }
           },
@@ -156,6 +156,7 @@
   },
   "active": "3afd93fe658efad8",
   "lastOpenFiles": [
+    "预备知识/实模式和保护模式.md",
     "汇编记录/寄存器.md",
     "汇编记录/系统调用.md",
     "汇编记录/基本语法.md",
@@ -163,7 +164,6 @@
     "预备知识/ELF文件.md",
     "汇编记录/命令.md",
     "汇编记录/cli.md",
-    "预备知识/实模式和保护模式.md",
     "操作记录/从U盘启动.md",
     "汇编记录",
     "预备知识/主引导扇区.md",
