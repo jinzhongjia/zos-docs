@@ -23,3 +23,4 @@ multiboot 是一个开放标准，它描述了引导程序应该如何加载 x86
 - 0.9.6 规范翻译版本：[前往](https://www.cnblogs.com/chio/archive/2008/01/01/1022430.html)
 - 0.9.6 官方规范：[前往](https://www.gnu.org/software/grub/manual/multiboot/multiboot.html#Boot-information-format)
 - 2.0   官方规范：[前往](https://www.gnu.org/software/grub/manual/multiboot2/multiboot.html)
+- osdev-Multiboot：[前往](https://wiki.osdev.org/Multiboot)
