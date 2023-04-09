@@ -8,12 +8,13 @@
 >（根据段选择子找到）段基指 + 偏移地址 => 线性地址
 > 线性地址 （通过页表） => 物理地址
 
-## 任务状态段TSS
-
-> 任务寄存器（TR）用于寻址一个特殊的任务状态段（Task State Segment，TSS）。TSS中包含着当前执行任务的重要信息。
-> TR寄存器用于存放当前任务TSS段的16位段选择符、32位基地址、16位段长度和描述符属性值。它引用GDT表中的一个TSS类型的描述符。指令LTR和STR分别用于加载和保存TR寄存器的段选择符部分。当使用LTR指令把选择符加载进任务寄存器时，TSS描述符中的段基地址、段限长度以及描述符属性会被自动加载到任务寄存器中。当执行任务切换时，处理器会把新任务的TSS的段选择符和段描述符自动加载进任务寄存器TR中。
 
 ## 参考文章
 
+- [GDT Tutorial](https://wiki.osdev.org/GDT_Tutorial#Survival_Glossary)
+- [段描述](https://wiki.osdev.org/Segmentation)
 - [【构建操作系统】全局描述符表GDT](https://zhuanlan.zhihu.com/p/25867829)
 - [cpu three mode](https://sunra.top/2022/02/06/three-cpu-mode/)
+- [Global Descriptor Table](https://wiki.osdev.org/Global_Descriptor_Table)
+
+- [Interrupt Service Routines](https://wiki.osdev.org/Interrupt_Service_Routines)
